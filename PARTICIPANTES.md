@@ -28,6 +28,6 @@ GitHub: https://github.com/GiovanniSM20
 Email: marcos.teruo.ouchi@gmail.com  
 GitHub: https://github.com/nixware  
 
-- João Dimitrov
+- João Dimitrov 
 Email: j.joaosantos@outlook.com 
 GitHub: https://github.com/bydimitrov
